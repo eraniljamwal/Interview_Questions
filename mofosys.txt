@@ -4,9 +4,10 @@ what is ORM ?
 what are the tables created when we are using EAV ?
 how to override blocks & helpers in magento ?
 What are events in Magento ?
-How to create custom events in Magento ?
+How to create custom events in Magento ? Using dispatch events in magento.
 
 M2 
 How to create themes in Magento 2 ?
 How to write validation in magento 2 ?
 how to get changes using static files without guld ?
+what is most challenging feature in magento.
