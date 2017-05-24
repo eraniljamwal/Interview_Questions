@@ -1,0 +1,12 @@
+What is MVC in Magento ?
+what is eav model ?
+what is ORM ?
+what are the tables created when we are using EAV ?
+how to override blocks & helpers in magento ?
+What are events in Magento ?
+How to create custom events in Magento ?
+
+M2 
+How to create themes in Magento 2 ?
+How to write validation in magento 2 ?
+
