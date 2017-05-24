@@ -9,4 +9,4 @@ How to create custom events in Magento ?
 M2 
 How to create themes in Magento 2 ?
 How to write validation in magento 2 ?
-
+how to get changes using static files without guld ?
